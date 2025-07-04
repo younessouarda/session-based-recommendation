@@ -7,4 +7,4 @@ There's 2 files:
 - 'Modele_GRU_Complet.pth' should be downloaded and placed to the /models folder in the project
 - 'cleaned_sessions.csv' should be downloaded and placed into the /data folder in the project
 
-Then the python file 'app.py' can be runned to see the demo in local
+Run the python file 'app.py' to see the demo in local
